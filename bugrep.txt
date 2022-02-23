@@ -1,0 +1,15 @@
+  Title: 
+  Summary:
+  Project:
+  Component:
+  Severity:
+  Status:
+  Author:
+  Steps to Reproduce:
+       Step 1:
+       Step 2:
+       Step 3:
+  ActualResult: 
+  ExpectedResult: 
+  AdditionalInformation:
+  Attachments:
